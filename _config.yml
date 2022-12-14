@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Luca Mesiti"
   avatar           : "profile_image.jpg"
-  bio              : "PhD student in  Category Theory"
+  bio              : "PhD student in
+  
+  Category Theory"
   location         : "Leeds, UK"
   employer         :
   pubmed           :
