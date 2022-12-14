@@ -3,7 +3,7 @@ title: "Lax normal conical 2-limits and the Grothendieck construction"
 collection: publications
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: 'The Grothendieck construction and the lax normal conical 2-limits are intuitively produced simultaneously to essentially solve the problem of conicalizing weighted 2-limits. Then an extended version of the Grothendieck construction is studied from an abstract point of view, using the lax normal 2-limits. In particular a pointwise Kax extension result is established.'
-date: #2009-10-01
+date: 2023-01-01
 venue: 'To appear soon'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
