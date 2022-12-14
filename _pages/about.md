@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+\vspace{1.5cm}
 
 I am a third-year PhD student in Category Theory at the University of Leeds, UK. I am currently visiting the University of Manchester, UK.
 
