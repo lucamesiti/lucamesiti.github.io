@@ -1,7 +1,7 @@
 ---
 title: "Derived Categories and Maximal Cohen-Macaulay modules"
 collection: talks
-type: "Talk"
+type: "Lecture"
 permalink: false
 venue: "Università di Genova, Italy"
 date: 2020-04-03
