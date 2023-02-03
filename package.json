@@ -1,22 +1,26 @@
 {
-  "name": "minimal-mistakes",
-  "version": "3.4.2",
-  "description": "Minimal Mistakes Jekyll theme npm build scripts",
+  "name": "Luca Mesiti",
+  "version": "1.0.0",
+  "description": "I am a PhD student in Category Theory, Mathematics",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git://github.com/lucamesiti/lucamesiti.github.io"
   },
   "keywords": [
-    "jekyll",
-    "theme",
-    "minimal"
+    "mesiti",
+    "luca mesiti",
+    "mathematics",
+    "maths",
+    "math",
+    "category theory",
+    "categories"
   ],
-  "author": "Michael Rose",
+  "author": "Luca Mesiti",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mmistakes/minimal-mistakes/issues"
   },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://lucamesiti.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },
