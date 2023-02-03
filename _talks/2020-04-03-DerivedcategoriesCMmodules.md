@@ -9,4 +9,4 @@ location: "Genova, Italy"
 ---
 Two lectures
 
-[Slides](http://lucamesiti.github.io/files/Talk - 2020-04-03 - Derived categories and maximal Cohen-Macaulay modules.pdf)
+[Slides](https://lucamesiti.github.io/files/Talk - 2020-04-03 - Derived categories and maximal Cohen-Macaulay modules.pdf)
