@@ -14,7 +14,7 @@ en: &DEFAULT_EN
   minute_read                : "minute read"
   share_on_label             : "Share on"
   meta_label                 :
-  tags_label                 : "Tags:"
+  tags_label                 : "Tags:Mesiti,Luca Mesiti,mathematics,maths,category theory,categories"
   categories_label           : "Categories:"
   date_label                 : "Published:"
   comments_label             : "Leave a Comment"
@@ -238,7 +238,7 @@ it: &DEFAULT_IT
   minute_read                : "minuto/i di lettura"
   share_on_label             : "Condividi"
   meta_label                 :
-  tags_label                 : "Tags:"
+  tags_label                 : "Tags:Mesiti,Luca Mesiti, matematica,teoria delle categorie,categorie"
   categories_label           : "Categorie:"
   date_label                 : "Aggiornato:"
   comments_label             : "Scrivi un commento"
