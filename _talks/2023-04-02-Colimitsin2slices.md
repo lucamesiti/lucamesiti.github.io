@@ -3,7 +3,7 @@ title: "Colimits in 2-dimensional slices"
 collection: talks
 type: "Conference Talk"
 permalink: false
-venue: "PSSL, Athens"
+venue: "PSSL 107, Athens"
 date: 2023-04-02
 location: "Greece"
 ---
