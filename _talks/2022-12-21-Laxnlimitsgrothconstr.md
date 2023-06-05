@@ -3,7 +3,7 @@ title: "Lax normal conical 2-limits and the Grothendieck construction"
 collection: talks
 type: "Conference Talk"
 permalink: false
-venue: "Itaca Workshop, Università di Pisa"
+venue: "ItaCa Workshop, Università di Pisa"
 date: 2022-12-21
 location: "Italy"
 ---
