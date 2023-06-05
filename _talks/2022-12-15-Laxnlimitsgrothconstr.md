@@ -1,7 +1,7 @@
 ---
 title: "Lax normal conical 2-limits and the Grothendieck construction"
 collection: talks
-type: "Conference"
+type: "Conference Talk"
 permalink: false
 venue: "YaMCATS, University of Manchester, UK"
 date: 2022-12-15
