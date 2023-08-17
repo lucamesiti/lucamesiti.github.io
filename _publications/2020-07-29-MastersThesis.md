@@ -2,7 +2,7 @@
 title: "Structures for Grothendieck Fibrations"
 collection: publications
 permalink: #/publication/2009-10-01-paper-title-number-1
-excerpt: ''
+excerpt: ' '
 date: 2020-07-29
 venue: 'Master's degree thesis'
 paperurl: 'https://arxiv.org/abs/2305.01494'
