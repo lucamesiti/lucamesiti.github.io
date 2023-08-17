@@ -1,0 +1,13 @@
+---
+title: "Structures for Grothendieck Fibrations"
+collection: publications
+permalink: #/publication/2009-10-01-paper-title-number-1
+excerpt: ''
+date: 2020-07-29
+venue: 'Master's degree thesis'
+paperurl: 'https://arxiv.org/abs/2305.01494'
+citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+Master's degree thesis. We prove a monadicity and a comonadicity result for the Grothendieck fibrations. The comonadicity result is original.
+
+Download [here](https://arxiv.org/abs/2305.01494)
