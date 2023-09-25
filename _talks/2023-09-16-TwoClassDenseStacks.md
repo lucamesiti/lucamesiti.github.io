@@ -7,4 +7,4 @@ venue: "PSSL 108, Terrasini"
 date: 2023-09-16
 location: "Italy"
 ---
-[Slides](https://github.com/lucamesiti/lucamesiti.github.io/blob/78f0a5e5ea5f6043fc08cc11083120b80f03e5a5/files/Talk-2023-04-02-PSSL-Colimitsin2slices.pdf)
+[Slides](https://github.com/lucamesiti/lucamesiti.github.io/blob/46d146fff0638886d5f6ea30d12a60bca39afe9b/files/Talk-2023-09-16-TwoClassDenseStacks.pdf)
