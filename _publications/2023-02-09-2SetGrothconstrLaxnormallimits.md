@@ -4,7 +4,7 @@ collection: publications
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2023-02-09
-venue: 'Preprint submitted'
+venue: 'Revision submitted to Theory and Applications of Categories'
 paperurl: 'https://arxiv.org/abs/2302.04566'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
