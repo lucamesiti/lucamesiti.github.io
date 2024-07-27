@@ -7,4 +7,4 @@ venue: "International Category Theory conference CT2024, Santiago de Compostela"
 date: 2024-06-24
 location: "Spain"
 ---
-[Slides](https://github.com/lucamesiti/lucamesiti.github.io/blob/4aa4d2ce967495c6cc123ae082a3991ba92d6490/files/Talk-2023-12-18_IndexedGrothConstr.pdf)
+[Slides](https://github.com/lucamesiti/lucamesiti.github.io/blob/fa57cfbf941fd064b9eef2b94cab704885c62859/files/Talk-2024-06-24-Aspectsoftwodimeltoposth.pdf)
