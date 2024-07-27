@@ -3,7 +3,7 @@ title: "2-classifiers via dense generators and the case of stacks"
 collection: talks
 type: "Conference Poster"
 permalink: false
-venue: "CT 2023, Louvain-la-Neuve"
+venue: "International Category Theory conference CT2023, Louvain-la-Neuve"
 date: 2023-07-07
 location: "Belgium"
 ---
