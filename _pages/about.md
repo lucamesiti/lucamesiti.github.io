@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My email address is mmlme@leeds.ac.uk
+My email address is luca.mesiti@outlook.com
 
 I have just concluded my PhD in category theory at the School of Mathematics of the University of Leeds, UK, under the supervision of Nicola Gambino.<br /> I was a teaching assistant of the Adjoint School 2024 for Dorette Pronk's project on double fibrations. I visited the University of Genova, Italy, from August 2023 to October 2023. Before that, I visited the University of Manchester, UK, from September 2022 to August 2023.<br />
 
