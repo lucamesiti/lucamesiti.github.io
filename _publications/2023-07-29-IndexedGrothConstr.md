@@ -1,6 +1,7 @@
 ---
 title: "Indexed Grothendieck construction"
 collection: publications
+category: published
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: 'Joint work with Elena Caviglia.'
 date: 2024-07-31
