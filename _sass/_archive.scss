@@ -57,8 +57,17 @@
   }
 }
 
-.archive__item-excerpt {
+.archive__item-excerpt-research {
   margin-top: -0.4cm;
+  font-size: $type-size-6;
+
+  & + p {
+    text-indent: 0;
+  }
+}
+
+.archive__item-excerpt {
+  margin-top: 0;
   font-size: $type-size-6;
 
   & + p {
