@@ -26,7 +26,7 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <p class="shorter" /> <h2>{{ category[1].title }}</h2><hr />
+        <p class="shorter" /> <h2>{{ category[1].title }}</h2>
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
