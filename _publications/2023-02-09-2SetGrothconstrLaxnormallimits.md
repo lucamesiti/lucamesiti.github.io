@@ -1,7 +1,7 @@
 ---
 title: "Pointwise Kan extensions along 2-fibrations and the 2-category of elements"
 collection: publications
-category: publication
+category: published
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2024-08-13
