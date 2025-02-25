@@ -81,6 +81,7 @@ publication_category:
   other:
     title: 'Other contributions'
 
+
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
