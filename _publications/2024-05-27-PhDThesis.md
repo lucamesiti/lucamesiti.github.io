@@ -11,4 +11,4 @@ citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal
 ---
 PhD thesis. We contribute to expand 2-categorical elementary topos theory. In particular, we present a novel technique of reduction of the study of 2-classifiers to dense generators. We then apply it to generalize to dimension 2 the fundamental result that Grothendieck topoi are elementary topoi. In order to reach our main theorems, we produce an original calculus of colimits in 2-dimensional slices and an indexed version of the Grothendieck construction.
 
-Download [here](https://github.com/lucamesiti/lucamesiti.github.io/blob/4553d5f540e6d8ed425118238f6ef427793d6ef6/files/MastersThesis.pdf)
+Download [here](https://github.com/lucamesiti/lucamesiti.github.io/blob/e5b2dcec7f8d83732d2636c5c1e3284bca925d8a/files/Mesiti_thesis_finalversion.pdf)
