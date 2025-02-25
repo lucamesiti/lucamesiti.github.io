@@ -69,14 +69,15 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+  
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  publication:
+  published:
     title: 'Publications'    
   preprint:
     title: 'Preprints'
-  books:
+  book:
     title: 'Books'
   other:
     title: 'Other contributions'
