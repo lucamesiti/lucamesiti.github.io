@@ -1,6 +1,7 @@
 ---
 title: "Colimits in 2-dimensional slices"
 collection: publications
+category: published
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2024-12-12
