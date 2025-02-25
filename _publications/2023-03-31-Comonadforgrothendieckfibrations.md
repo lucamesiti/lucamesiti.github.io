@@ -1,6 +1,7 @@
 ---
 title: "A comonad for Grothendieck fibrations"
 collection: publications
+category: published
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: 'Joint work with Emmenegger, Rosolini and Streicher.'
 date: 2024-05-07
