@@ -10,7 +10,7 @@ redirect_from:
 
 My email address is luca.mesiti@outlook.com
 
-I am a postdoctoral fellow at the Mathematics division of the University of KwaZulu-Natal, South Africa, working on category theory and its applications to algebra, pointfree topology and gravity theory. I am currently visiting Stellenbosch University, South Africa. I am part of the Future Mathematicians Programme, hosting mathematical structures explorations in various cities of South Africa, with the aim to expose school learners and undergraduates to abstract mathematics.
+I am a postdoctoral fellow at the Mathematics division of the University of KwaZulu-Natal, South Africa, working on category theory and its applications to algebra, pointfree topology and gravity theory. I am currently visiting Stellenbosch University, South Africa.<br /> I am part of the Future Mathematicians Programme, hosting mathematical structures explorations in various cities of South Africa, with the aim to expose school learners and undergraduates to abstract mathematics.
 
 My main research interests are category theory and its applications to algebra, logic and geometry. In particular, I have a keen interest in fibrations and the Grothendieck construction,<br /> 2-categories, categorical algebra, enriched categories and topos theory.
 
