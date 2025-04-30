@@ -5,7 +5,7 @@ category: preprint
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: 'Joint work with Elena Caviglia and Amartya Goswami.'
 date: 2025-03-09
-venue: 'Preprint'
+venue: 'Submitted for publication'
 paperurl: #'https://arxiv.org/abs/2502.09562'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
