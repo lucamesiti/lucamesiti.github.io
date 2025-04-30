@@ -10,7 +10,7 @@ redirect_from:
 
 My email address is luca.mesiti@outlook.com
 
-I am a postdoctoral fellow at the Mathematics division of the University of KwaZulu-Natal, South Africa, working on category theory and its applications to algebra, pointfree topology and gravity theory. I am currently visiting Stellenbosch University, South Africa.
+I am a postdoctoral fellow at the Mathematics division of the University of KwaZulu-Natal, South Africa, working on category theory and its applications to algebra, pointfree topology and gravity theory. I am currently visiting Stellenbosch University, South Africa. I am part of the Future Mathematicians Programme, hosting mathematical structures explorations in various cities of South Africa, with the aim to expose school learners and undergraduates to abstract mathematics.
 
 In June 2024 I obtained my PhD in Mathematics at the University of Leeds, UK, under the supervision of Nicola Gambino.<br /> I visited the University of Genova, Italy, in 2023, and the University of Manchester, UK, in 2022 and 2023.<br />
 
