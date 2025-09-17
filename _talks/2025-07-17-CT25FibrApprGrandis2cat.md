@@ -7,4 +7,4 @@ venue: "International Category Theory conference CT2025, Brno"
 date: 2025-07-17
 location: "Czech Republic"
 ---
-[Slides](https://github.com/lucamesiti/lucamesiti.github.io/blob/fa57cfbf941fd064b9eef2b94cab704885c62859/files/Talk-2024-06-24-Aspectsoftwodimeltoposth.pdf)
+[Slides](https://github.com/lucamesiti/lucamesiti.github.io/blob/179aa4532d4ec18a38a2a13fa2d1a90070df8cc7/files/Talk-2025-07-17-CT2025_Mesiti.pdf)
