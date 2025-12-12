@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "Luca Mesiti"
   avatar           : "profile_image.jpg"
-  bio              : "Researcher in Category Theory, Mathematics"
+  bio              : "Researcher in Mathematics"
   location         : "Stellenbosch University,<br /> South Africa"
   employer         :
   pubmed           :
@@ -112,7 +112,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            :
