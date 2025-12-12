@@ -7,4 +7,4 @@ venue: "South African Mathematical Society Congress SAMS2025, Gqeberha"
 date: 2025-12-02
 location: "South Africa"
 ---
-[Slides](https://github.com/lucamesiti/lucamesiti.github.io/blob/a7afb36e485d3d51f7f1bd41c7e617fa97a3a82f/files/Talk_2024-12-05-SamsElemTwoToposes.pdf)
+[Slides](https://github.com/lucamesiti/lucamesiti.github.io/blob/3d49490fd63ea081212db480f0202c0aaf6257b4/files/Talk-2025-12-sams.pdf)
