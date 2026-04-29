@@ -1,7 +1,7 @@
 ---
 title: "Fibrational approach to Grandis exactness for 2-categories"
 collection: publications
-category: preprint
+category: published
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: 'Joint work with Elena Caviglia and Zurab Janelidze.'
 date: 2025-04-01
