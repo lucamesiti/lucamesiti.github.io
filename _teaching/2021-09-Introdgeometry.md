@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Geometry"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate module"
 permalink: false
 venue: "University of Leeds, UK"
 date: 2021-09-01
