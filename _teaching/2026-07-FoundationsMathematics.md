@@ -1,5 +1,5 @@
 ---
-title: "Foundations of mathematics"
+title: "Foundations of Abstract Mathematics II"
 collection: teaching
 type: "Undergraduate module"
 permalink: false
