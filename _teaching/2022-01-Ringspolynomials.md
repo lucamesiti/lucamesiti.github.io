@@ -1,7 +1,7 @@
 ---
 title: "Rings and Polynomials"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate module"
 permalink: false
 venue: "University of Leeds, UK"
 date: 2022-01-01
