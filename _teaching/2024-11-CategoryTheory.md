@@ -1,7 +1,7 @@
 ---
 title: "Category Theory"
 collection: teaching
-type: "Honours and Masters course"
+type: "Honours and Masters module"
 permalink: false
 venue: "South African Theory and Computational School, South Africa"
 date: 2024-11-01
