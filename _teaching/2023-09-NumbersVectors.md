@@ -1,7 +1,7 @@
 ---
 title: "Numbers and Vectors"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate module"
 permalink: false
 venue: "University of Leeds, UK"
 date: 2023-09-01
