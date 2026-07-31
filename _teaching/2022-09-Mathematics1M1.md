@@ -1,7 +1,7 @@
 ---
 title: "Mathematics for Engineering"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate module"
 permalink: false
 venue: "University of Manchester, UK"
 date: 2022-09-01
