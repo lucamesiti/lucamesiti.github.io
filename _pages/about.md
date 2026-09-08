@@ -11,7 +11,7 @@ redirect_from:
 I am a postdoctoral research fellow in the Mathematics division of Stellenbosch University, South Africa, working in category theory and its applications to algebra and geometry.<br /> More precisely, I am advancing categorical algebra using 2-dimensional category theory and Grothendieck fibrations, and I am applying quotient stacks to Galois theory. I am also writing papers in general algebra and pointfree topology.<br />
 I am really happy to be collaborating with numerous researchers across the world. This allows me to learn precious new concepts and tools in several areas of mathematics, such as algebra, topology, algebraic geometry and logic, and to write papers in all these different fields, going beyond my main expertise in category theory.
 
-From October 2026 on, I will be a postdoctoral research fellow in Mathematics at Vrije Universiteit Brussel, Belgium.
+From October 2026 on, I will be a postdoctoral research fellow in Mathematics at Vrije Universiteit Brussel, Belgium. I will be working in 2-dimensional category theory and categorical algebra, focussing on their applications to topology.
 
 Before my current position, I was a postdoctoral fellow at the University of KwaZulu-Natal, South Africa, working in category theory, pointfree topology and algebra.<br />
 I obtained my PhD in Mathematics in June 2024 at the University of Leeds, UK, under the supervision of Nicola Gambino. My PhD thesis contributed to expanding 2-categorical elementary topos theory. In particular, I presented a novel technique of reduction of the study of<br /> 2-classifiers to dense generators. I then applied it to generalize to dimension 2 the fundamental result that Grothendieck topoi are elementary topoi.<br />
