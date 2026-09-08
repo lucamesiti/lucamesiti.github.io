@@ -13,4 +13,4 @@ Joint work with Elena Caviglia and Zurab Janelidze.
 
 In this paper we introduce and study rectangular torsion theories, i.e. those torsion theories (C,T,F) with C a pointed category, where the canonical functor C->TxF is an equivalence of categories. In particular, we show that these are precisely the internal rectangular bands in the 2-category of pointed categories.
 
-Download [here](https://arxiv.org/abs/2504.01057)
+Download [here](https://doi.org/10.1007/s10485-026-09867-x)
