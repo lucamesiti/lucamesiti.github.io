@@ -13,4 +13,4 @@ Joint work with Elena Caviglia and Cerene Rathilal.
 
 In this paper, we generalize the concept of unicoherence to the context of frames. Unicoherence, originally introduced by Kuratowski, is a connectedness property that is well studied in classical topology and used to detect holes of a space. We extend the notion of unicoherence to locales and we then investigate its properties. In particular, we prove that many of the known characterizations of unicoherence for topological spaces extend to the setting of locales. Some of these characterizations interestingly involve separation properties for locales.
 
-Download [here](https://arxiv.org/abs/2510.24426)
+Download [here](https://doi.org/10.1007/s00012-026-00933-y)
