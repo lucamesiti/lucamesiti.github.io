@@ -13,4 +13,4 @@ Joint work with Elena Caviglia and Amartya Goswami.
 
 The aim of this paper is to extend Cohen structure theorem beyond local rings. Both Cohen structure theorem and Nagata's generalization of it are special cases of our results. We investigate for which rings R there exists a maximal ideal m of R such that the canonical projection R->R/m has a section, so that R/m is isomorphic to a field k contained in R. We present two equivalent characterizations of this property and use them to exhibit two classes of rings that satisfy it. Moreover, we provide several examples (not necessarily local or complete local), as well as methods to construct new examples.
 
-Download [here](https://arxiv.org/abs/2502.09562)
+Download [here](https://doi.org/10.1016/j.jalgebra.2026.05.014)
