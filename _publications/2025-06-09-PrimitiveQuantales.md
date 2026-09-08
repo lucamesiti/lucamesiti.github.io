@@ -13,4 +13,4 @@ Joint work with Elena Caviglia and Amartya Goswami.
 
 We generalize Jacobson's notion of primitive ring to the setting of quantales. We show that every primitive ring gives rise to a primitive quantale of ideals. We then prove a density theorem for strongly primitive quantales. Furthermore, we show that primitive quantales are prime and commutative strongly primitive quantales are field quantales.
 
-Download [here](https://arxiv.org/abs/2506.08124)
+Download [here](https://doi.org/10.1142/S0219498827502550)
