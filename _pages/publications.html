@@ -15,6 +15,9 @@ author_profile: true
   .shorter {
      margin-bottom: 0.15cm;
   }
+  ol li {
+     margin-bottom: 15px;
+  }
 </style>
 
 <!-- New style rendering if publication categories are defined -->
@@ -27,9 +30,12 @@ author_profile: true
       {% endif %}
       {% unless title_shown %}
         <p class="shorter" /> <h1>{{ category[1].title }}</h1>
+        <ol reversed>
         {% assign title_shown = true %}
       {% endunless %}
+      <li>
       {% include archive-single.html %}
+      </li>
     {% endfor %}
     <br />
   {% endfor %}
