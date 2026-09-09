@@ -18,6 +18,15 @@ author_profile: true
   ol li {
      margin-bottom: 20px;
   }
+  h2.archive__item-title {
+    margin-bottom: 0 !important;
+  }
+  
+  .archive__item p, 
+  .archive__item-excerpt {
+    margin-top: 2px !important;
+    margin-bottom: 5px !important;
+  }
 </style>
 
 {% assign numbered_cats = "published,preprint" | split: "," %}
@@ -43,11 +52,11 @@ author_profile: true
       {% endunless %}
       {% if is_numbered %}<li>{% endif %}
       {% include archive-single.html %}
-      {% if is_numbered %}<li>{% endif %}
+      {% if is_numbered %}</li>{% endif %}
     {% endfor %}
     {% if title_shown %}
       {% if is_numbered %}
-        </ol> <!-- ONLY CLOSE LIST IF APPROVED -->
+        </ol>
       {% endif %}
     {% endif %}
     <br />
