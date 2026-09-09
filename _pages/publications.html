@@ -16,29 +16,39 @@ author_profile: true
      margin-bottom: 0.15cm;
   }
   ol li {
-     margin-bottom: 15px;
+     margin-bottom: 20px;
   }
 </style>
+
+{% assign numbered_cats = "published,preprint" | split: "," %}
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
+    {% assign is_numbered = false %}
+    {% if numbered_cats contains category[0] %}
+      {% assign is_numbered = true %}
+    {% endif %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}
         <p class="shorter" /> <h1>{{ category[1].title }}</h1>
-        <ol reversed>
+        {% if is_numbered %}
+          <ol reversed>
+        {% endif %}
         {% assign title_shown = true %}
       {% endunless %}
-      <li>
+      {% if is_numbered %}<li>{% endif %}
       {% include archive-single.html %}
-      </li>
+      {% if is_numbered %}<li>{% endif %}
     {% endfor %}
     {% if title_shown %}
-      </ol> <!-- CLOSE THE LIST AT THE END OF THE CATEGORY -->
+      {% if is_numbered %}
+        </ol> <!-- ONLY CLOSE LIST IF APPROVED -->
+      {% endif %}
     {% endif %}
     <br />
   {% endfor %}
