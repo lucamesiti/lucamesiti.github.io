@@ -37,6 +37,9 @@ author_profile: true
       {% include archive-single.html %}
       </li>
     {% endfor %}
+    {% if title_shown %}
+      </ol> <!-- CLOSE THE LIST AT THE END OF THE CATEGORY -->
+    {% endif %}
     <br />
   {% endfor %}
 {% else %}
