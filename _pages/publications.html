@@ -6,58 +6,58 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
 <style>
-  .shorter {
-     margin-bottom: 0.15cm;
-  }
-  ol {
-    padding-left: 25px !important; 
-    margin-left: 0;
-  }
-  ol li {
-     margin-bottom: 20px;
-  }
+.shorter {
+margin-bottom: 0.15cm;
+}
+ol {
+padding-left: 25px !important; 
+margin-left: 0;
+}
+ol li {
+margin-bottom: 20px;
+}
 </style>
 
 {% assign numbered_cats = "published,preprint" | split: "," %}
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% assign is_numbered = false %}
-    {% if numbered_cats contains category[0] %}
-      {% assign is_numbered = true %}
-    {% endif %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <p class="shorter" /> <h1>{{ category[1].title }}</h1>
-        {% if is_numbered %}
-          <ol reversed>
-        {% endif %}
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% if is_numbered %}<li>{% endif %}
-      {% include archive-single.html %}
-      {% if is_numbered %}</li>{% endif %}
-    {% endfor %}
-    {% if title_shown %}
-      {% if is_numbered %}
-        </ol>
-      {% endif %}
-    {% endif %}
-    <br />
-  {% endfor %}
+{% for category in site.publication_category  %}
+{% assign title_shown = false %}
+{% assign is_numbered = false %}
+{% if numbered_cats contains category[0] %}
+{% assign is_numbered = true %}
+{% endif %}
+{% for post in site.publications reversed %}
+{% if post.category != category[0] %}
+{% continue %}
+{% endif %}
+{% unless title_shown %}
+<div class="shorter"></div> <h1>{{ category[1].title }}</h1>
+{% if is_numbered %}
+<ol reversed>
+{% endif %}
+{% assign title_shown = true %}
+{% endunless %}
+{% if is_numbered %}<li>{% endif %}
+{% include archive-single.html %}
+{% if is_numbered %}</li>{% endif %}
+{% endfor %}
+{% if title_shown %}
+{% if is_numbered %}
+</ol>
+{% endif %}
+{% endif %}
+<br />
+{% endfor %}
 {% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+{% for post in site.publications reversed %}
+{% include archive-single.html %}
+{% endfor %}
 {% endif %}
